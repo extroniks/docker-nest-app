@@ -1,0 +1,13 @@
+{
+  "name": "nest-app",
+  "version": "0.1.0",
+  "author": "Stefan Erakovic",
+  "license": "MIT",
+  "scripts": {
+    "nest": "./node_modules/.bin/nest"
+  },
+  "dependencies": {
+    "@nestjs/cli": "^5.8",
+    "@nestjs/schematics": "^5.12"
+  }
+}
