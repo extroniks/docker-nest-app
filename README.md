@@ -1,10 +1,10 @@
 ### Dockerized NestJS App
 
 A dockerized NestJS app, tech stack:
-    1. NestJS
-    2. TypeORM
-    3. GraphQL
-    4. PostgreSQL
+1. NestJS
+2. TypeORM
+3. GraphQL
+4. PostgreSQL
 
 ## Development quick start
 
